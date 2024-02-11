@@ -1,7 +1,8 @@
+import FormularioImagenPage from "./FormularioImagenPage"
 import ListaImagenespage from "./ListaImagenesPage"
 
 const App = () => {
-    return <ListaImagenespage />
+    return <FormularioImagenPage />
 }
 
 export default App
